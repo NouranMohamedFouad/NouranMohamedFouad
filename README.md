@@ -12,7 +12,7 @@
 - 💻 I'm a software engineer with a focus on **Java**, **JavaScript**, **Python**, and **open source technologies**
 - 🎓 *Faculty of Computers and Artificial Intelligence - Cairo University*
 - 🎓 *ITI 9-Month Scholarship – Open Source Applications Development Track*
-- 🌱 Currently expanding my expertise in *NodeJS, **NestJS, **Django, and **Ruby On Rails*
+- 🌱 Currently expanding my expertise in **NodeJS**, **NestJS**, **Django**, and **Ruby On Rails**
 - 🚀 Passionate about building clean, scalable applications and solving real-world problems
 - 📫 How to reach me: [nouran-elaskalany](www.linkedin.com/in/nouran-elaskalany)
 
